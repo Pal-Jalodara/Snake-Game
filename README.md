@@ -54,7 +54,8 @@ g++ snakeGame.cpp -o snakeGame.exe
    - `W` → Move **Up**
    - `S` → Move **Down**
    - `A` → Move **Left**
-   - `D` → Move **Right**  
+   - `D` → Move **Right**
+     
 4️⃣ Eat food (`*`) to grow and increase your score.  
 5️⃣ Avoid hitting the walls or yourself!  
 6️⃣ If you collide, the game ends. Choose to restart or exit.
